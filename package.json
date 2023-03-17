@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "three": "^0.150.1",
+    "tween.js": "^16.6.0"
+  }
+}
